@@ -24,7 +24,7 @@ In this challenge, our autonomous self-driving vehicle competes in two tasks:
 To set up the project locally:
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/qst-wro2024.git
+    git clone https://github.com/momar82/QSTSS_WRO2024.git
     ```
 2. Install dependencies:
     ```bash
