@@ -4,8 +4,10 @@ Welcome to the official repository for the **Qatar Speeder Team (QST)**, also kn
 
 ## Team Members
 - **Supervisor**: Dr. Mohammed Salameh
-- **Designer**: st1
-- **Programmer**: st2
+- **Designer**: MOHAMMED AL-MADFAA
+- **Programmer**: GHALIB SHAJEA
+- **Programmer**: FARAJ SALEM
+
 
 ## Challenge Overview
 In this challenge, our autonomous self-driving vehicle competes in two tasks:
@@ -76,4 +78,4 @@ Contributions from the **QST** team are welcome! To contribute:
 This project is licensed under the [MIT License](LICENSE) – see the `LICENSE` file for details.
 
 ## Contact
-For any inquiries, please reach out to **Dr. Mohammed Salameh** at [email@example.com].
+For any inquiries, please reach out to **Dr. Mohammed Salameh** at [m.omar82@gmail.com].
