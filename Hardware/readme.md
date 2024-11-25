@@ -8,13 +8,13 @@ This repository details the hardware components used in our car project, highlig
 The heart of our car project, the Raspberry Pi is a small, affordable computer that runs our software and manages communications between the various components.
 
 ![Raspberry Pi](https://www.raspberrypi.org/app/uploads/2020/11/Raspberry-Pi-4-Model-B.jpg)
-*Source: [Raspberry Pi Foundation](https://www.raspberrypi.org/)*
+*Source: https://www.raspberrypi.com/products/raspberry-pi-4-model-b/
 
 ### 2. USB HAT
 The USB HAT provides additional connectivity options for our Raspberry Pi, allowing us to interface with multiple peripherals easily.
 
 ![USB HAT](https://www.waveshare.com/w/upload/3/3e/USB_HAT.jpg)
-*Source: [Waveshare](https://www.waveshare.com/)*
+*Source: https://www.waveshare.com/ups-hat.htm
 
 ### 3. Picon Zero
 Picon Zero is a versatile GPIO and motor control HAT for the Raspberry Pi, which allows for easy control of motors and sensors.
@@ -34,6 +34,7 @@ The LIDAR LDS-01 is used for obstacle detection and mapping, providing accurate 
 
 
 Huskylens is a compact, user-friendly AI camera and vision sensor designed for rapid prototyping and development. It simplifies AI and computer vision tasks, offering pre-trained models for object tracking, face detection, line following, and more.
+
 Source: https://www.dfrobot.com/product-1922.html
 
 **Challenge:** Currently, there is no Python API available for the LIDAR sensor. We plan to develop and share our own API soon.
