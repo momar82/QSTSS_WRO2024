@@ -74,19 +74,19 @@ We appreciate your interest in our project, and we will update this repository a
  
   ## View from Behind the Car
 
- ![image](https://github.com/user-attachments/assets/8388a151-ad38-4859-a7c5-f4be99a24dd3)
+![image](https://github.com/user-attachments/assets/0723ea47-2eac-4280-9748-41e323b14f65)
  
   ## View from the right side of the Car
   
- ![image](https://github.com/user-attachments/assets/bcf5d401-ccd5-4de5-a6c5-3213aa91ea6d)
+![image](https://github.com/user-attachments/assets/aca574c6-e501-4d2d-af14-dbdfbccbec83)
  
   ## View from the front of the Car
 
- ![image](https://github.com/user-attachments/assets/1dfeff01-31a1-45ac-bdb2-0f6f4ec813b2)
+![image](https://github.com/user-attachments/assets/fa894b3a-027b-4542-8ba9-7b00db454aa7)
 
  ## View from the left side of the car
  
- ![image](https://github.com/user-attachments/assets/d4c1ef32-d6c9-439d-9184-379ea98016a9)
+![image](https://github.com/user-attachments/assets/b18b407e-44f9-4421-a830-244f5ef8c50d)
 
 
 
