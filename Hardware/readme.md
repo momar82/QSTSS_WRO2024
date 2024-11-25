@@ -35,6 +35,7 @@ The LIDAR LDS-01 is used for obstacle detection and mapping, providing accurate 
 
 Huskylens is a compact, user-friendly AI camera and vision sensor designed for rapid prototyping and development. It simplifies AI and computer vision tasks, offering pre-trained models for object tracking, face detection, line following, and more.
 Source: https://www.dfrobot.com/product-1922.html
+
 **Challenge:** Currently, there is no Python API available for the LIDAR sensor. We plan to develop and share our own API soon.
 
 ## Upcoming Features
