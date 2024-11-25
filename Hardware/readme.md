@@ -29,7 +29,11 @@ Huskylens is a compact, user-friendly AI camera and vision sensor designed for r
 
 Source: https://www.dfrobot.com/product-1922.html
 
-**Challenge:** Currently, there is no Python API available for the LIDAR sensor. We plan to develop and share our own API soon.
+## 5. 40A Brushless ESC Electronic Speed Controller
+
+The 40A Brushless ESC controls brushless motors with 40A current support, programmable settings, and safety features, ideal for drones, RC vehicles, and robotics.
+
+Source: https://electrobes.com/product/standard-40a-bldc-esc-electronic-speed-controller/
 
 We appreciate your interest in our project, and we will update this repository as we make progress on our APIs. Stay tuned!
 ### Top components - 3D printing
