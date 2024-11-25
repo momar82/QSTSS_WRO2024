@@ -43,6 +43,15 @@ Source: https://www.dfrobot.com/product-1922.html
 - Creation of a Python API for the LIDAR LDS-01 sensor.
 
 We appreciate your interest in our project, and we will update this repository as we make progress on our APIs. Stay tuned!
+### Top components - 3D printing
+![image](https://github.com/user-attachments/assets/d0b4694e-c762-4020-8aa7-c615e25735c3)
+
+### Lidar holder - 3D printing
+![image](https://github.com/user-attachments/assets/8451fb58-6cad-4a39-bbd1-cbec45a8e68b)
+ ### Bottom part - 3D printing
+ ![image](https://github.com/user-attachments/assets/a9a3d311-ec18-4b0a-9fba-00216a4abb12)
+
+
  ![image](https://github.com/user-attachments/assets/9095fbab-5405-4873-a3f0-7f27611e9bfb)
 
  ![image](https://github.com/user-attachments/assets/fecef43d-f67d-4c24-9a6a-7d49dd61dc4d)
