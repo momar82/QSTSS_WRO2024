@@ -30,6 +30,11 @@ The LIDAR LDS-01 is used for obstacle detection and mapping, providing accurate 
 ![LIDAR LDS-01](https://www.robotshop.com/media/catalog/product/cache/1/image/900x900/9df78eab33525d08d6e5fb8d27136e95/l/i/lidar-lds-01-3.png)
 *Source: [RobotShop](https://www.robotshop.com/)*
 
+### 5. Gravity: Huskylens - An Easy-to-use AI Camera | Vision Sensor
+
+
+Huskylens is a compact, user-friendly AI camera and vision sensor designed for rapid prototyping and development. It simplifies AI and computer vision tasks, offering pre-trained models for object tracking, face detection, line following, and more.
+
 **Challenge:** Currently, there is no Python API available for the LIDAR sensor. We plan to develop and share our own API soon.
 
 ## Upcoming Features
