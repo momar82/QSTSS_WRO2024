@@ -7,6 +7,7 @@ Welcome to the official repository for the **Qatar Speeder Team (QST)**, also kn
 - **Designer**: MOHAMMED AL-MADFAA
 - **Programmer**: GHALIB SHAJEA
 - **Programmer**: FARAJ SALEM
+- **Programmer**:Jabor Al-obaidly
 
 
 ## Challenge Overview
