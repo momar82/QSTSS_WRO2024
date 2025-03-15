@@ -1,3 +1,6 @@
+For the new WRO 2025 go to [![WRO 2025](https://github.com/momar82/QSTSS_WRO2024/edit/main/README.md).
+
+
 # WRO Future Engineers Challenge 2024 - Qatar Speeder Team (QST)
 
 Welcome to the official repository for the **Qatar Speeder Team (QST)**, also known as **Qspeeder Team**, competing in the **WRO Future Engineers Challenge 2024**! This repository includes all code, documentation, and resources related to our self-driving car project.
