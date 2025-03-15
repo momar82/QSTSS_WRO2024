@@ -1,4 +1,4 @@
-For the new WRO 2025 go to [![WRO 2025](https://github.com/momar82/QSTSS_WRO2024/edit/main/README.md).
+For the new WRO 2025 go to [![WRO 2025](https://github.com/momar82/QSTSS_WRO2024).
 
 
 # WRO Future Engineers Challenge 2024 - Qatar Speeder Team (QST)
