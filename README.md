@@ -47,6 +47,7 @@ We plan to experiment with the following software frameworks for development and
 /models     # AI models, training datasets
 /hardware   # Information about hardware setup and configurations
 /simulations # Simulation environments for testing
+/3D         # for the 3D printed parts
 ```
 
 ## ⚙️ Setup & Installation
