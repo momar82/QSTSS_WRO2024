@@ -28,10 +28,14 @@ We plan to experiment with the following software frameworks for development and
 ### **Planned Software Stack**
 - **Donkey Car API** for autonomous driving
 - **ROS 2** (Robot Operating System) for real-time robotics control
+### Today I am on 
+- today 24 Mar setup raspberry pi 5 with Ubuntu 24.04 and ROS 2 jazzy
+-  [install ROS2 on RaspberrypiPi5 woth ubuntu 24.04 os ](https://docs.ros.org/en/jazzy/Installation/Ubuntu-Install-Debs.html)
+### Next 
+- Setup donkeycar (https://docs.donkeycar.com/guide/robot_sbc/setup_raspberry_pi/)
 
 ### **Tutorials & References**
-Today I am on 
--  [install ROS2 on RaspberrypiPi5 woth ubuntu 24.04 os ](https://docs.ros.org/en/jazzy/Installation/Alternatives/Ubuntu-Development-Setup.html)
+
 
 - [Waveshare PiRacer Pro AI Kit](https://www.waveshare.com/wiki/PiRacer_Pro_AI_Kit)
 - [DonkeyCar Setup Guide](https://docs.donkeycar.com/guide/robot_sbc/setup_raspberry_pi/)
