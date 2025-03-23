@@ -30,6 +30,9 @@ We plan to experiment with the following software frameworks for development and
 - **ROS 2** (Robot Operating System) for real-time robotics control
 
 ### **Tutorials & References**
+Today I am on 
+-  [install ROS2 on RaspberrypiPi5 woth ubuntu 24.04 os ](https://docs.ros.org/en/jazzy/Installation/Alternatives/Ubuntu-Development-Setup.html)
+
 - [Waveshare PiRacer Pro AI Kit](https://www.waveshare.com/wiki/PiRacer_Pro_AI_Kit)
 - [DonkeyCar Setup Guide](https://docs.donkeycar.com/guide/robot_sbc/setup_raspberry_pi/)
 - [DonkeyCar Documentation](https://docs.donkeycar.com/)
@@ -39,6 +42,10 @@ We plan to experiment with the following software frameworks for development and
 - [ROS 2 Humble Installation](https://docs.ros.org/en/humble/Installation.html)
 - [ROS 2 Development Setup](https://docs.ros.org/en/rolling/Installation/Alternatives/Ubuntu-Development-Setup.html)
 - [Bookworm ROS 2 Guide](https://github.com/HannahKiekens/bookworm-ros2)
+Good tutroial
+- [1](https://github.com/CatUnderTheLeaf/rosRoboCar)
+- [donkeycar-images](https://github.com/robocarstore/donkeycar-images)
+
 
 ## 📂 Repository Structure
 ```
