@@ -28,12 +28,17 @@ We plan to experiment with the following software frameworks for development and
 ### **Planned Software Stack**
 - **Donkey Car API** for autonomous driving
 - **ROS 2** (Robot Operating System) for real-time robotics control
-### Today I am on 
+### plans: 
+#### Ubuntu + ROS on RPI5 8Gb RAM with battery
 - today 24 Mar setup raspberry pi 5 with Ubuntu 24.04 and ROS 2 jazzy
 -  [install ROS2 on RaspberrypiPi5 woth ubuntu 24.04 os ](https://docs.ros.org/en/jazzy/Installation/Ubuntu-Install-Debs.html)
-### Next 
+-  Setup ubuntu + ros on Raspberry pi 5 8Gb RAM
+#### Raspberry Pi OS + DonkeyCar API on Raspberry Pi 5 16G b RAM + AP Camera Black heatsink 
+- Today 17 May 2025: install Raspberry PI OS 64 on RPI5 16Gb
+- Install Raspberry pi AI camera
 - Setup donkeycar (https://docs.donkeycar.com/guide/robot_sbc/setup_raspberry_pi/)
-
+### Next 
+- need to test on the car 
 ### **Tutorials & References**
 
 
